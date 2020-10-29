@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Compliance & Security Manager with a strong background in financial reporting, application management, policy procedure, and database administration. I completed the UCI Data Analytics Boot Camp in August 2020.
+- 🔭 I’m currently working on a Machine Learning application that examines telescopes data
+- 🌱 I’m currently learning French
+- 👯 I’m looking to collaborate on Earth Science projects
+- 🤔 I’m looking for help with finding a new full-time position in Southern California
+- 📫 AndreaRose6208@outlook.com
+- 😄 Pronouns: She / Her

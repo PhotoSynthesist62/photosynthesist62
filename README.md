@@ -1,4 +1,4 @@
-### Hi there 👋
+### Testing, testing... 🎤
 
 <!--
 **PhotoSynthesist62/photosynthesist62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Compliance & Security Manager with a strong background in financial reporting, application management, policy procedure, and database administration. I completed the UCI Data Analytics Boot Camp in August 2020.
+Hello! I am Compliance & Security Manager with a strong background in financial reporting, applications management, policy & procedure development, and database administration. I completed the UCI Data Analytics Boot Camp in August 2020.
 - 🔭 I’m currently working on a Machine Learning application that examines telescopes data
 - 🌱 I’m currently learning French
 - 👯 I’m looking to collaborate on Earth Science projects

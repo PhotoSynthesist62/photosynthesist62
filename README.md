@@ -20,5 +20,4 @@ Hello! I am Compliance & Security Manager with a strong background in financial 
 - 🌱 I’m currently learning French
 - 👯 I’m looking to collaborate on Earth Science projects
 - 🤔 I’m looking for help with finding a new full-time position in Southern California
-- 📫 AndreaRose6208@outlook.com
 - 😄 Pronouns: She / Her

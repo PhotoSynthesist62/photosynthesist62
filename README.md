@@ -1,23 +1,7 @@
-### Testing, testing... 🎤
-
-<!--
-**PhotoSynthesist62/photosynthesist62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello! I am Compliance & Security Manager with a strong background in financial reporting, applications management, policy & procedure development, and database administration. I completed the UCI Data Analytics Boot Camp in August 2020.
-- 🔭 I’m currently working on a Machine Learning application that examines telescopes data
-- 🌱 I’m currently learning French
-- 👯 I’m looking to collaborate on Earth Science projects
-- 🤔 I’m looking for help with finding a new full-time position in Southern California
-- 😄 Pronouns: She / Her
+### Hello!
+I am a Compliance & Security Manager with a strong background in financial reporting, applications management, policy & procedure development, and database administration. After many years of wrangling CSVs out of various systems to create budget models and utilization dashboards in Excel, I made a serious pivot into data analytics. I completed the UCI Data Analytics Boot Camp in August 2020 and now I'm working to polish this workspace and present some projects.
+- 🖐️ Pronouns: She / Her
+- 📚 I’m learning French via Duolingo
+- 🌎 I’m looking to collaborate on Earth Science projects
+- 🚀 I’m HYPED for Perseverence [#Mars2020](https://mars.nasa.gov/mars2020/)
+- 📬 [LinkedIn](https://www.linkedin.com/in/andrearose6208/)

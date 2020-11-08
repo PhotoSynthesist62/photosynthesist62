@@ -4,7 +4,6 @@
 I am a Compliance & Security Manager with a strong background in financial reporting, applications management, policy & procedure development, and database administration. I completed the UCI Data Analytics Boot Camp in August 2020 and now I'm working to polish this space and present some data projects.
 - 🖐️ Pronouns: She / Her
 - 📚 I’m learning French via Duolingo
-- 🐟 I’m looking to collaborate on Earth Science projects
 - 🌱 I have a green thumb
 - 🚀 I’m HYPED for Perseverence [#Mars2020](https://mars.nasa.gov/mars2020/)
 - 📬 Reach me @ [LinkedIn](https://www.linkedin.com/in/andrearose6208/)
